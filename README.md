@@ -124,3 +124,4 @@ Spt_crawler.start()
  Colum F: Article URL  
  
  All collected data is saved as a csv.
+# 2022-06-09
